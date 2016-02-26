@@ -11,7 +11,6 @@
 + Robert Kim: [Snake] (http://www.robkim.io/snake)
 + DI Lee: [Charizard] (http://www.dilee.co/charizard/)
 + Daniel Herr: [Retro-asteroids] (http://www.dan-herr.com/asteroids)
-+ Carl Baron: [Asteroids] (http://www.carlbaron.io/asteroids/)
 + Thomas Hopkins: [Cloud Breaker] (http://www.thomashopkins.tech/Cloud-Breaker/)
 + Andrew D'Amico: [Bounce Attack] (http://www.bounceattack.xyz/)
 
