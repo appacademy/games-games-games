@@ -6,7 +6,9 @@ Check out all the cool games made by a/A students!
 
 
 
-...and TAs
 
+
+
+...and TAs
 #### NYC
 + Carl Baron: [Asteroids] (http://www.carlbaron.io/asteroids/)
